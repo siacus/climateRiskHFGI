@@ -5,9 +5,9 @@
 
 An interactive Shiny application for exploring the spatial relationship between climate risk indicators and Human Flourishing Global Index (HFGI) dimensions across US counties.
 
-![climateRickHFGI Dashboard](climateRickHFGI.png)
+![](climateRiskHFGI.png)
 
-**Live Application:** [https://ai-services.dataverse.org/r/climateRiskHFGI](https://ai-services.dataverse.org/r/climateRiskHFGI)
+**Live Application:** [https://ai-services.dataverse.org/r/climateRiskHFGI/](https://ai-services.dataverse.org/r/climateRiskHFGI/)
 
 ## Overview
 
