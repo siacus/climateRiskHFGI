@@ -211,7 +211,8 @@ For questions, issues, or feature requests, please open an issue on the [GitHub 
 
 ## Acknowledgments
 
-- HFGI data provided by Harvard Dataverse
+- HFGI data provided by [Harvard Dataverse](https://doi.org/10.7910/DVN/T39JBY)
+- County-level resilience-adjusted climate risk indicators provided by [AlphaGeo~AI](https://alphageo.ai)
 - County and state shapefiles from US Census Bureau
 - Docker ARM build adapted from [hvalev/shiny-server-arm-docker](https://github.com/hvalev/shiny-server-arm-docker)
 - Built with the amazing R Shiny framework

@@ -200,7 +200,12 @@ ui <- fluidPage(
       href = "https://doi.org/10.7910/DVN/T39JBY",
       target = "_blank",
       "https://doi.org/10.7910/DVN/T39JBY"
-    ),
+    ), ".",
+    "Thanks to ", tags$a(
+      href = "https://alphageo.ai",
+      target = "_blank",
+      "AlphaGeo~AI"
+    ), " for providing county-level resilience-adjusted climate risk indicators",
     br(),
     "Left map: Select climate risk measures (composite or individual components). ",
     "Right map: Select HFGI dimensions (latent constructs or observed indicators)."
