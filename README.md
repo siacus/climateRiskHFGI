@@ -5,9 +5,9 @@
 
 An interactive Shiny application for exploring the spatial relationship between climate risk indicators and Human Flourishing Global Index (HFGI) dimensions across US counties.
 
-![FlourshingMap Dashboard](FlourishingMap.png)
+![climateRickHFGI Dashboard](climateRickHFGI.png)
 
-**Live Application:** [https://ai-services.dataverse.org/](https://ai-services.dataverse.org/)
+**Live Application:** [https://ai-services.dataverse.org/r/climateRiskHFGI](https://ai-services.dataverse.org/r/climateRiskHFGI)
 
 ## Overview
 
@@ -30,6 +30,7 @@ This application visualizes county-level data on climate risks and human flouris
   - Variables: 10 latent constructs, 66 observed indicators
   
 - **Climate Risk Data**: County-level climate exposure indicators
+  - County-level resilience-adjusted climate risk indicators provided by [AlphaGeo~AI](https://alphageo.ai)
   - Composite latent risk score
   - Heat, Fire, Drought, Coastal, Wind, and Inland Flood Risk
 
